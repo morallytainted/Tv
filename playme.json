@@ -1,5 +1,33 @@
 {
-    "providerName": "Acme Productions",
-    "lastUpdated": "2015-11-11T22:21:37+00:00",
-    "language": "en"
+    "providerName": "TVByDemand Productions",
+    "lastUpdated": "2017-06-12T10:38:28+00:00",
+    "language": "en",
+    "series": [{
+        "id": "1",
+        "title": "Bonanza",
+        "seasons": [{
+            "seasonNumber": 1,
+            "episodes": [{
+                "id": "2085",
+                "title": "S1E12 The Hanging Posse",
+                "content": {
+                    "dateAdded": "2016-03-03T12:35:13+00:00",
+                    "videos": [{
+                        "url": "http://www.tvbydemand.com..................shed.ism/manifest",
+                        "quality": "SD",
+                        "videoType": "SMOOTH"
+                    }],
+                    "duration": 3623
+                },
+                "thumbnail": "http://www.tvbydemand.com/images/bonanza.JPG",
+                "episodeNumber": 12,
+                "releaseDate": "1959-11-09",
+                "shortDescription": "S1E12 The Hanging Posse"
+            }]
+        }],
+        "genres": ["comedy"],
+        "thumbnail": "http://www.tvbydemand.com/images/bonanza.jpg",
+        "releaseDate": "1952-01-01",
+        "shortDescription": "Bonanza"
+    }]
 }
