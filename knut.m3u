@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="commecial",Brodilo TV
+https://r5---sn-ab5l6nsy.googlevideo.com/videoplayback?expire=1589966967&ei=F6TEXp-RH9Ou8wTVx5CQAQ&ip=185.232.22.109&id=o-AEymP0VZyqotsXG-wHru-njMjPmMVX_v9T7CN4v2voYK&itag=18&source=youtube&requiressl=yes&mh=GD&mm=31%2C29&mn=sn-ab5l6nsy%2Csn-ab5szn7z&ms=au%2Crdu&mv=m&mvi=4&pl=24&initcwndbps=1313750&vprv=1&mime=video%2Fmp4&gir=yes&clen=2784262&ratebypass=yes&dur=30.046&lmt=1565609458510267&mt=1589945260&fvip=5&c=WEB&txp=2311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgcE2SSq2YrC4IZsU-yD8fUSIq9quoYeU-1y-0yw74e_YCIF6e5Fp6XDq046qXLQTMDZNkpkfVw44BHXYgdPS2mReq&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAOyvtUku0NCIfH-dXYshwpu2coNPmFKhXmqgZlHkjQGvAiA3l8Rn51lK1GRaMYgBqBC1xNcKQ36DHiTGoVa5wZSPNA%3D%3D
+
+#EXTINF:0,Youtube Live
+https://youtu.be/9Auq9mYxFEE,live
