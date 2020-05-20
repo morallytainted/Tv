@@ -64,5 +64,17 @@
         <media:title>DR Knut Wittkowski</media:title>
       </media:content>
     </item>
+          <title>test3</title>
+      <link>https://iptv-org.github.io/iptv/index.m3u</link>
+      <description>PLANDEMIC DOCUMENTARY: THE HIDDEN AGENDA BEHIND COVID-19</description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">95d1f5ce8e894031b196dfe9d7e7154f</guid>
+      <media:content url="https://iptv-org.github.io/iptv/index.m3u">
+        <media:description>Youttube and facebook banned video</media:description>
+        <media:keywords>BANNED COVID</media:keywords>
+        <media:thumbnail url="https://www.abc27.com/wp-content/uploads/sites/55/2020/05/pland.jpg" />
+        <media:title>PLANDEMIC</media:title>
+      </media:content>
+    </item>
   </channel>
 </rss>
