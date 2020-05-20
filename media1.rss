@@ -38,6 +38,18 @@
         <media:title>DR Knut Wittkowski</media:title>
       </media:content>
     </item>
-
+    <item>
+      <title>m3u8 test</title>
+      <link>https://raw.githubusercontent.com/morallytainted/Tv/master/knut.m3u</link>
+      <description> IS SOCIAL DISTANCING AND LOCK DOWN THE WRONG APPROACH?</description>
+      <pubDate>Thu, 21 APRIL 2020 18:47:20 GMT</pubDate>
+      <guid isPermaLink="false">245d23cdbce74559b32aea178106f9a2</guid>
+      <media:content height="720" type="video/mp4" width="1280" isDefault="true" url="https://raw.githubusercontent.com/morallytainted/Tv/master/knut.m3u">
+        <media:description>Youtube and facebook banned video</media:description>
+        <media:keywords>BANNED COVID</media:keywords>
+        <media:thumbnail url="https://www.aier.org/wp-content/uploads/2020/04/knut-wittkowski-1200x608.jpg" />
+        <media:title>DR Knut Wittkowski</media:title>
+      </media:content>
+    </item>
   </channel>
 </rss>
