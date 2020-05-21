@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-    <channel>
+<channel>
+    <title>News Feed</title>
+    <link />
+    <description>News Feed</description>
+    <language>en-us</language>
+    <pubDate>Thu, 21 May 2020 20:30:54 GMT</pubDate>
     <item>
       <title>Timcast</title>
       <link>https://seed118.bitchute.com/ldVrtT5BwSJ0/B7_-_aCGi0Q.mp4</link>
       <description>Tim Pool is an Award Winning American journalist and Political Commentator.</description>
       <pubDate>Wednesday, 20 May 2020 16:51:07 GMT</pubDate>
-      <guid isPermaLink="false">c795beee70e643f4b1104cb039c8b128</guid>
+      <guid isPermaLink="false">ead764b8d9724eeba67ff321f1bb4560</guid>
       <media:content url="https://seed118.bitchute.com/ldVrtT5BwSJ0/B7_-_aCGi0Q.mp4">
         <media:description>Tim Pool is an Award Winning American journalist and Political Commentator.</media:description>
         <media:keywords>Timcast</media:keywords>
