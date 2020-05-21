@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Roku-Developer-Sample-Feed</title>
+    <link />
+    <description>Feed on video content for testing channel applications built on the Roku developer platform</description>
+    <language>en-us</language>
+    <pubDate>Wed, 11 Nov 2015 20:30:54 GMT</pubDate>
+    <image>
+      <title>Roku-Developer-Sample-Feed</title>
+      <url>http://s2.content.video.llnw.net/lovs/images-prod/59021fabe3b645968e382ac726cd6c7b/channel/1cfd09ab38e54f48be8498e0249f5c83/S9O.600x600.png</url>
+      <width>-1</width>
+      <height>-1</height>
+    </image>
+    <item>
+      <title>Dr. Judy Mikovits</title>
+      <link>https://seed200.bitchute.com/GlK0xRJDsDNy/IB3ijQuLkkUr.mp4</link>
+      <description>PLANDEMIC DOCUMENTARY: THE HIDDEN AGENDA BEHIND COVID-19</description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">c9e4d9aa8b69431fb42ceadb5f1fe5e7</guid>
+      <media:content height="720" type="video/mp4" width="1280" isDefault="true" url="https://seed200.bitchute.com/GlK0xRJDsDNy/IB3ijQuLkkUr.mp4">
+        <media:description>Youttube and facebook banned video</media:description>
+        <media:keywords>BANNED COVID</media:keywords>
+        <media:thumbnail url="https://www.abc27.com/wp-content/uploads/sites/55/2020/05/pland.jpg" />
+        <media:title>PLANDEMIC</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>DR Knut Wittkowski</title>
+      <link>https://seed167.bitchute.com/yy2m89naqGqD/lSdlgVrflsQh.mp4</link>
+      <description> IS SOCIAL DISTANCING AND LOCK DOWN THE WRONG APPROACH?</description>
+      <pubDate>Thu, 21 APRIL 2020 18:47:20 GMT</pubDate>
+      <guid isPermaLink="false">d5dba6173623407991173bc8bca7eb70</guid>
+      <media:content url="https://seed167.bitchute.com/yy2m89naqGqD/lSdlgVrflsQh.mp4">
+        <media:description>Youtube and facebook banned video</media:description>
+        <media:keywords>BANNED COVID</media:keywords>
+        <media:thumbnail url="https://www.aier.org/wp-content/uploads/2020/04/knut-wittkowski-1200x608.jpg" />
+        <media:title>DR Knut Wittkowski</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>m3u8 test</title>
+      <link>https://raw.githubusercontent.com/morallytainted/Tv/master/knut.m3u</link>
+      <description> IS SOCIAL DISTANCING AND LOCK DOWN THE WRONG APPROACH?</description>
+      <pubDate>Thu, 21 APRIL 2020 18:47:20 GMT</pubDate>
+      <guid isPermaLink="false">245d23cdbce74559b32aea178106f9a2</guid>
+      <media:content url="https://raw.githubusercontent.com/morallytainted/Tv/master/knut.m3u">
+        <media:description>Youtube and facebook banned video</media:description>
+        <media:keywords>BANNED COVID</media:keywords>
+        <media:thumbnail url="https://www.aier.org/wp-content/uploads/2020/04/knut-wittkowski-1200x608.jpg" />
+        <media:title>DR Knut Wittkowski</media:title>
+      </media:content>
+    </item>
+  </channel>
+</rss>
