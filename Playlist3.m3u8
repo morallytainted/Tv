@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:5
+#EXT-X-TARGETDURATION:100
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10, 
 https://github.com/morallytainted/Tv/raw/master/warning.mp4
