@@ -4,20 +4,26 @@
 	<resultLength>4</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
 	<endIndex>4</endIndex>
-	<item sdImg="https://devtools.web.roku.com/videoplayer/images/JimFallon.jpg" hdImg="https://devtools.web.roku.com/videoplayer/images/JimFallon.jpg">
-		<title>Jim Fallon: Exploring the mind of a killer</title>
-		<contentId>10001</contentId>
-		<contentType>Talk</contentType>
-		<contentQuality>SD</contentQuality>
-		<streamFormat>mp4</streamFormat>
-		<media>
-			<streamQuality>SD</streamQuality>
-			<streamBitrate>1500</streamBitrate>
-			<streamUrl>http://video.ted.com/talks/podcast/JimFallon_2009_480.mp4</streamUrl>
-		</media>
-		<synopsis>Psychopathic killers are the basis for some must-watch TV, but what really makes them tick? Neuroscientist Jim Fallon talks about brain scans and genetic analysis that may uncover the rotten wiring in the nature (and nurture) of murderers. In a too-strange-for-fiction twist, he shares a fascinating family history that makes his work chillingly personal.</synopsis>
-		<genres>Clip</genres>
-		<runtime>1260</runtime>
+
+<!-- resultLength indicates the total number of results for this feed -->
+<resultLength>4</resultLength>
+<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+<endIndex>4</endIndex>
+<item sdImg="https://devtools.web.roku.com/videoplayer/images/JimFallon.jpg" hdImg="https://devtools.web.roku.com/videoplayer/images/JimFallon.jpg">
+ <title>Test m3u8</title>
+ <contentId>10031</contentId>
+ <contentType>Talk</contentType>
+ <contentQuality>SD</contentQuality>
+ <streamFormat>hls</streamFormat>
+ <media>
+ <streamQuality>SD</streamQuality>
+ <streamBitrate>0</streamBitrate>
+ <streamUrl>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8</streamUrl>
+ </media>
+ <synopsis>Test m3u8.</synopsis>
+ <genres>Test</genres>
+ <live>True</live>
+<runtime>1260</runtime>
 	</item>	
 	<item sdImg="https://devtools.web.roku.com/videoplayer/images/DanGilbert.jpg" hdImg="https://devtools.web.roku.com/videoplayer/images/DanGilbert.jpg">
 		<title>Dan Gilbert asks, Why are we happy?</title>
