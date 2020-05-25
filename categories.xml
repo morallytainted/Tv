@@ -5,7 +5,7 @@
 	  <banner_ad sd_img="https://devtools.web.roku.com/videoplayer/images/missing.png" hd_img="https://devtools.web.roku.com/videoplayer/images/missing.png"/>
 	  
 	<category title="Technology" description="TED Talks on Technology" sd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png" hd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png">
-		<categoryLeaf title="The Mind" description="" feed="https://devtools.web.roku.com/videoplayer/xml/themind.xml"/>
+		<categoryLeaf title="The Mind" description="" feed="https://raw.githubusercontent.com/morallytainted/Tv/master/themind.xml"/>
 		<categoryLeaf title="Global Issues" description="" feed="https://devtools.web.roku.com/videoplayer/xml/globalissues.xml" />
 	</category>
 
