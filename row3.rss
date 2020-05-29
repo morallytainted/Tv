@@ -1,22 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>The Dan Bongino Show®</title>
+    <title>Podcasts</title>
     <link />
-    <description>Ep. 1260 Tech Tyrants Declare War on Trump</description>
+    <description>E</description>
     <language>en-us</language>
     <pubDate>Thu, 21 May 2020 20:30:54 GMT</pubDate>
     <item>
-      <title>The Dan Bongino Show®</title>
-      <link>https://raw.githubusercontent.com/morallytainted/Tv/master/playlist4.m3u</link>
-      <description>PLANDEMIC DOCUMENTARY: THE HIDDEN AGENDA BEHIND COVID-19</description>
-      <pubDate>Tue, 27 May 2020 16:51:07 GMT</pubDate>
+      <title>Verdict with Ted Cruz®</title>
+      <link>https://github.com/morallytainted/Tv/raw/master/video/verdict-27.mp4</link>
+      <description>The Senator and Michael break down the death of civil liberties in the midst of Obamagate, Mike Flynn, sexual assault on campus, and the endless lockdowns.</description>
+      <pubDate>Sat, 16 May 2020 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">4a185c5dbc33413f951faf1eb37aeba4</guid>
+      <media:content url="https://github.com/morallytainted/Tv/raw/master/video/verdict-27.mp4">
+        <media:description>Ep. 27 - Civil Liberties Under Attack</media:description>
+        <media:keywords>civil liberties Obamagate</media:keywords>
+        <media:thumbnail url="https://assets.rbl.ms/22619699/origin.png" />
+        <media:title>Verdict with Ted Cruz®</media:title>
+      </media:content>
+    </item>
+	    <item>
+      <title>Timcast®</title>
+      <link>https://github.com/morallytainted/Tv/raw/master/video/timcast052820.mp4</link>
+      <description>Trump Launches NUCLEAR Option Over Social Media Censorship Of Conservatives, Targets Section 230. An executive order targeting social media censorship has leaked showing impending action and it seems Big Tech is scared.</description>
+      <pubDate>Tue, 28 May 2020 16:51:07 GMT</pubDate>
       <guid isPermaLink="false">c2b2385c340c4434e9ecf5bc6ee385931</guid>
-      <media:content url="https://r1---sn-tt1eln7e.googlevideo.com/videoplayback?expire=1590628391&ei=x7vOXrCoEtbOigSV57uABg&ip=196.247.57.28&id=4cba3ae13baf0f50&itag=22&source=youtube&requiressl=yes&mh=OH&mm=31%2C29&mn=sn-tt1eln7e%2Csn-tt1e7n7l&ms=au%2Crdu&mv=m&mvi=0&pl=24&initcwndbps=633750&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=3991.231&lmt=1590604840836077&mt=1590606692&fvip=1&c=WEB&txp=5516222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgOvltReRnOQ_HeXzIfkc2IR1yjUl9TwG58_Nklq9381QCIQDfVpo4l1m7qpyfSuGcMUaIn2xlgwmhkM5TMR_gFGbiAQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgbeK2T6lqerXIp-aFKX4Tl4B3lx2JDZ0cnFEiEFJ97-cCIFwpa9qUAVshq90Gv-iuN5xvgoqmnco6fG4lLzyJBRgV">
-        <media:description>Ep. 1260 Tech Tyrants Declare War on Trump</media:description>
-        <media:keywords>Tech Tyrants Declare War on Trump<</media:keywords>
-        <media:thumbnail url="https://bongino.com/public/assets/img/logo-red.png" />
-        <media:title>The Dan Bongino Show® </media:title>
+      <media:content url="https://github.com/morallytainted/Tv/raw/master/video/timcast052820.mp4">
+        <media:description>Trump Launches NUCLEAR Option Over Social Media Censorship Of Conservatives, Targets Section 230. An executive order targeting social media censorship has leaked showing impending action and it seems Big Tech is scared.</media:description>
+        <media:keywords>Tech Tyrants Declare War on Trump</media:keywords>
+        <media:thumbnail url="https://futureofstorytelling.org/uploads/speaker/card/Tim%20Pool%20sm.jpg" />
+        <media:title>Timcast®</media:title>
       </media:content>
     </item>
   </channel>
