@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Podcasts</title>
+    <link />
+    <description>E</description>
+    <language>en-us</language>
+    <pubDate>Thu, 21 May 2020 20:30:54 GMT</pubDate>
+    <item>
+      <title>Verdict with Ted Cruz®</title>
+      <link>https://github.com/morallytainted/Tv/raw/master/video/verdict-27.mp4</link>
+      <description>The Senator and Michael break down the death of civil liberties in the midst of Obamagate, Mike Flynn, sexual assault on campus, and the endless lockdowns.</description>
+      <pubDate>Sat, 16 May 2020 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">4a185c5dbc33413f951faf1eb37aeba4</guid>
+      <media:content url="https://github.com/morallytainted/Tv/raw/master/video/verdict-27.mp4">
+        <media:description>Ep. 27 - Civil Liberties Under Attack</media:description>
+        <media:keywords>civil liberties Obamagate</media:keywords>
+        <media:thumbnail url="https://assets.rbl.ms/22619699/origin.png" />
+        <media:title>Verdict with Ted Cruz®</media:title>
+      </media:content>
+    </item>
+	    <item>
+      <title>Timcast®</title>
+      <link>https://github.com/morallytainted/Tv/raw/master/video/timcast052820.mp4</link>
+      <description>Trump Launches NUCLEAR Option Over Social Media Censorship Of Conservatives, Targets Section 230. An executive order targeting social media censorship has leaked showing impending action and it seems Big Tech is scared.</description>
+      <pubDate>Tue, 28 May 2020 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">c2b2385c340c4434e9ecf5bc6ee385931</guid>
+      <media:content url="https://github.com/morallytainted/Tv/raw/master/video/timcast052820.mp4">
+        <media:description>Trump Launches NUCLEAR Option Over Social Media Censorship Of Conservatives, Targets Section 230. An executive order targeting social media censorship has leaked showing impending action and it seems Big Tech is scared.</media:description>
+        <media:keywords>Tech Tyrants Declare War on Trump</media:keywords>
+        <media:thumbnail url="https://futureofstorytelling.org/uploads/speaker/card/Tim%20Pool%20sm.jpg" />
+        <media:title>Timcast®</media:title>
+      </media:content>
+    </item>
+  </channel>
+</rss>
